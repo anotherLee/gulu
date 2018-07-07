@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/liyue2/gulu/issues"
   },
-  "homepage": "https://github.com/liyue2/gulu#readme"
+  "homepage": "https://github.com/liyue2/gulu#readme",
+  "devDependencies": {
+    "vue": "^2.5.16"
+  }
 }
