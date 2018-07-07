@@ -20,7 +20,8 @@
     "url": "https://github.com/liyue2/gulu/issues"
   },
   "homepage": "https://github.com/liyue2/gulu#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "vue": "^2.5.16"
   }
 }
